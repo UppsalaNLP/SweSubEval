@@ -11,4 +11,4 @@ The dataset is available in the file "literature-sample-annotated.csv". Each lin
 
 The data is released under the Creative Commons license, CC BY-NC-SA
 
-All sentences are samples from works in [Litteraturbanken](https://litteraturbanken.se/)
+All sentences are sampled from works in [Litteraturbanken](https://litteraturbanken.se/)
