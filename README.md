@@ -9,3 +9,6 @@ Sara Stymne, Carin  Östman, and David Håkansson (2023) Parser Evaluation for A
 
 The dataset is available in the file "literature-sample-annotated.csv". Each line contains the type of realtion, the class (1: the relation occur with the marked word, or 0: the relation does no occur with the marked word), and the annotated sentence, where the a focus word is marked with asterisks.
 
+The data is released under the Creative Commons license, CC BY-NC-SA
+
+All sentences are samples from works in [Litteraturbanken](https://litteraturbanken.se/)
